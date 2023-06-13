@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.textAfterInput {
+    display: none;
+    color: red;
+}
+
+.block {
+    width: 200px;
+    height: 200px;
+    background-color: #c0c0c0;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
